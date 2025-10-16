@@ -1,0 +1,47 @@
+/* Write a rule for each of the following */
+
+/* Make a rule to set the following on all H1 elements
+   background color to black 
+   text color to white
+*/
+
+
+/* Make a rule using an id selector to turn the text
+   of the div called "first-move" to green 
+   when the mouse moves over it. 
+*/
+
+
+
+/* Make a descendant rule to set the background to black of
+   every div that has class of "black" that is ALSO inside
+   the container 
+*/
+
+
+/* Make a class rule to set the width and height to 100px
+   for the 'square' class.
+*/
+
+
+/* Make a class rule to::
+   Set the container class to a grid 
+   Make that grid have 3 rows and 3 columns
+   Add a transition for the 'transform' property
+*/
+
+
+/* Make a class  rule that will rotate anything
+   with the "rotate" class by 90 degrees when you move
+   your mouse over it.
+*/
+
+
+
+
+
+
+
+
+
+
